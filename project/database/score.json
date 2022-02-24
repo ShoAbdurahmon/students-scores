@@ -1,0 +1,30 @@
+[
+    {
+        "scoreId": 1,
+        "studentId": 1,
+        "score": 14,
+        "time": "3/1/2022 23:58:42",
+        "comment": "hello world"
+    },
+    {
+        "scoreId": 2,
+        "studentId": 2,
+        "score": 40,
+        "time": "3/1/2022 23:58:42",
+        "comment": "no comment"
+    },
+    {
+        "scoreId": 3,
+        "studentId": 2,
+        "score": 90,
+        "time": "3/1/2022 23:59:3",
+        "comment": "no comment"
+    },
+    {
+        "scoreId": 4,
+        "studentId": 1,
+        "score": 6,
+        "time": "4/1/2022 10:0:43",
+        "comment": "Juda yahwi"
+    }
+]
